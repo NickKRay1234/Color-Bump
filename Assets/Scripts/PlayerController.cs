@@ -1,37 +1,39 @@
 using UnityEngine;
 
+
+namespace ColorBump.Player
+{
+
+[RequireComponent (typeof(Rigidbody))]
 public class PlayerController : MonoBehaviour
 {
-    private Rigidbody _rb;
-    private Vector3 lastMousePos;
-    public float sensitivity = 0.16f, clampDelta = 42f;
-    public float bounds = 5;
+    [SerializeField] private float _sensitivity = 0.16f;
+    [SerializeField] private float MovementRadius = 42f;
+    [SerializeField] private float _bounds = 5f;
+    private Rigidbody _rigidbody;
+    private Vector3 _lastMousePosition;
 
     private void Awake()
     {
-        _rb = GetComponent<Rigidbody>();
-    }
-
-    private void Start()
-    {
-
+        _rigidbody = GetComponent<Rigidbody>();
     }
 
     private void FixedUpdate()
     {
-        if(Input.GetMouseButtonDown(0))
+        if(Input.GetMouseButtonDown(0)) // Returns true during the frame the user pressed the given mouse button.
         {
-            lastMousePos = Input.mousePosition;
+            _lastMousePosition = Input.mousePosition; // Input.mousePosition - reports the position of the mouse even when it is not inside the Game View.
         }
 
-        if(Input.GetMouseButton(0))
+        if(Input.GetMouseButton(0)) // Returns whether the given mouse button is held down
         {
-            Vector3 vector = lastMousePos - Input.mousePosition;
-            lastMousePos = Input.mousePosition;
-            vector = new Vector3(vector.x, 0, vector.y);
+            Vector3 pointsDistance = _lastMousePosition - Input.mousePosition;
+            _lastMousePosition = Input.mousePosition;
+            pointsDistance = new Vector3(pointsDistance.x, 0, pointsDistance.y);
 
 
-            Vector3 moverForce = Vector3.ClampMagnitude(-vector clampDelta);
+            Vector3 moveForce = Vector3.ClampMagnitude(pointsDistance, MovementRadius); // ClampMagnitude - returns a copy of vector with its magnitude clamped to maxLength.
+            _rigidbody.AddForce(Vector3.forward * 2 + (-moveForce * _sensitivity - _rigidbody.velocity / 5f), ForceMode.VelocityChange);
         }
     }
 
@@ -41,3 +43,6 @@ public class PlayerController : MonoBehaviour
 
 
 }
+}
+
+
