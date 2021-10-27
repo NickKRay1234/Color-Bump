@@ -10,8 +10,8 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float _sensitivity = 0.16f;
     [SerializeField] private float MovementRadius = 42f;
     [SerializeField] private float _bounds = 5f;
-    private Rigidbody _rigidbody;
     private Vector3 _lastMousePosition;
+    private Rigidbody _rigidbody;
 
     private void Awake()
     {
@@ -27,20 +27,18 @@ public class PlayerController : MonoBehaviour
 
         if(Input.GetMouseButton(0)) // Returns whether the given mouse button is held down
         {
-            Vector3 pointsDistance = _lastMousePosition - Input.mousePosition;
-            _lastMousePosition = Input.mousePosition;
-            pointsDistance = new Vector3(pointsDistance.x, 0, pointsDistance.y);
-
-
-            Vector3 moveForce = Vector3.ClampMagnitude(pointsDistance, MovementRadius); // ClampMagnitude - returns a copy of vector with its magnitude clamped to maxLength.
-            _rigidbody.AddForce(Vector3.forward * 2 + (-moveForce * _sensitivity - _rigidbody.velocity / 5f), ForceMode.VelocityChange);
+            Vector3 radiusOffSet = Vector3.ClampMagnitude( PointsDistanceCalculation(_lastMousePosition), MovementRadius ); // ClampMagnitude - returns a copy of vector with its magnitude clamped to maxLength.
+            _rigidbody.AddForce(Vector3.forward * 2 + (-radiusOffSet * _sensitivity - _rigidbody.velocity / 5f), ForceMode.VelocityChange); // Add an instant velocity change to the rigidbody, ignoring its mass.
         }
     }
 
-    
-
-
-
+    private Vector3 PointsDistanceCalculation(Vector3 position)
+    {
+            Vector3 pointsDistance = position - Input.mousePosition;
+            _lastMousePosition = Input.mousePosition;
+            pointsDistance = new Vector3(pointsDistance.x, 0, pointsDistance.y);
+            return pointsDistance;
+    }
 
 }
 }
