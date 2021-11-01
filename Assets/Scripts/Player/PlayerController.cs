@@ -15,7 +15,6 @@ namespace ColorBump.Player
         [SerializeField] private Transform _rightBound;
         private Vector3 _lastMousePosition;
         private Rigidbody _rigidbody;
-        private const float _boost = 1.5f;
         private const int _velocityLimiter = 5;
 
         private void Awake()
@@ -26,7 +25,7 @@ namespace ColorBump.Player
         private void Update()
         {
             GetXMovementRestriction();
-            transform.position += FindObjectOfType<CameraMovement>().camVel; // ?
+            GetMovementSpeedUpFromCamera();
         }
 
         private void FixedUpdate()
@@ -37,8 +36,9 @@ namespace ColorBump.Player
             if (Input.GetMouseButton(0))
             {
                 Vector3 radiusOffSet = Vector3.ClampMagnitude(GetPointsDistanceCalculation(_lastMousePosition), MovementRadius);
-                _rigidbody.AddForce(Vector3.forward * _boost + (-radiusOffSet * _sensitivity - _rigidbody.velocity / _velocityLimiter), ForceMode.VelocityChange);
+                _rigidbody.AddForce(-radiusOffSet * _sensitivity - _rigidbody.velocity / _velocityLimiter, ForceMode.VelocityChange);
             }
+            _rigidbody.velocity.Normalize();
         }
 
 
@@ -54,11 +54,20 @@ namespace ColorBump.Player
         }
 
         ///<summary>
-        /// The method limits the range of motion of the game object, determined by the minimum and maximum values along the X axis
+        /// The method limits the range of motion of the game object, determined by the minimum and maximum values along the X axis.
         ///</summary>
         private Vector3 GetXMovementRestriction()
         {
-            transform.position = new Vector3(Mathf.Clamp(transform.position.x, _leftBound.position.x, _rightBound.position.x), transform.position.y);
+            transform.position = new Vector3(Mathf.Clamp(transform.position.x, _leftBound.position.x, _rightBound.position.x), transform.position.y, transform.position.z);
+            return transform.position;
+        }
+
+        ///<summary>
+        /// The method takes speed for gameObject from the Camera speed movement.
+        ///</summary>
+        private Vector3 GetMovementSpeedUpFromCamera()
+        {
+            transform.position += CameraMovement.Instance.CameraDisplacement;
             return transform.position;
         }
 
