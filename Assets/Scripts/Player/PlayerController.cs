@@ -16,12 +16,14 @@ namespace ColorBump.Player
         [SerializeField] private Transform _rightBound;
         private Vector3 _lastMousePosition;
         private Rigidbody _rigidbody;
+        ScenesTransition _levelUp;
         private const int _velocityLimiter = 5;
         private bool _canMove;
         public bool CanMove { get { return _canMove; } set { _canMove = value;} }
 
         private void Awake()
         {
+            _levelUp = GetComponent<ScenesTransition>();
             _rigidbody = GetComponent<Rigidbody>();
             if(Instance != null) // Singleton
             {
@@ -30,18 +32,16 @@ namespace ColorBump.Player
             }
             Instance = this;
         }
-
         private void Update()
         {
             GetXMovementRestriction();
             if(_canMove) GetMovementSpeedUpFromCamera();
         }
-
         private void FixedUpdate()
         {
             if (Input.GetMouseButtonDown(0))
                 _lastMousePosition = Input.mousePosition;
-            if (_canMove)
+            if (_canMove && !_levelUp.Finish)
             {
                 if (Input.GetMouseButton(0))
                 {

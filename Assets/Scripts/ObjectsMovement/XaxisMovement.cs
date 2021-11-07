@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace ColorBump.ObjectsMovement
+namespace ColorBump.Enemy
 {
     public class XaxisMovement : MonoBehaviour
     {
