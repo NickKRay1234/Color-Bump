@@ -7,6 +7,7 @@ namespace ColorBump.Player
     [RequireComponent(typeof(Rigidbody))]
     public class PlayerController : MonoBehaviour
     {
+        public static PlayerController Instance {get; private set;}
         [SerializeField] private float _sensitivity = 0.16f;
         [SerializeField] private float MovementRadius = 42f;
 
@@ -16,27 +17,37 @@ namespace ColorBump.Player
         private Vector3 _lastMousePosition;
         private Rigidbody _rigidbody;
         private const int _velocityLimiter = 5;
+        private bool _canMove;
+        public bool CanMove { get { return _canMove; } set { _canMove = value;} }
 
         private void Awake()
         {
             _rigidbody = GetComponent<Rigidbody>();
+            if(Instance != null) // Singleton
+            {
+                Destroy(this.gameObject);
+                return;
+            }
+            Instance = this;
         }
 
         private void Update()
         {
             GetXMovementRestriction();
-            GetMovementSpeedUpFromCamera();
+            if(_canMove) GetMovementSpeedUpFromCamera();
         }
 
         private void FixedUpdate()
         {
             if (Input.GetMouseButtonDown(0))
                 _lastMousePosition = Input.mousePosition;
-
-            if (Input.GetMouseButton(0))
+            if (_canMove)
             {
-                Vector3 radiusOffSet = Vector3.ClampMagnitude(GetPointsDistanceCalculation(_lastMousePosition), MovementRadius);
-                _rigidbody.AddForce(-radiusOffSet * _sensitivity - _rigidbody.velocity / _velocityLimiter, ForceMode.VelocityChange);
+                if (Input.GetMouseButton(0))
+                {
+                    Vector3 radiusOffSet = Vector3.ClampMagnitude(GetPointsDistanceCalculation(_lastMousePosition), MovementRadius);
+                    _rigidbody.AddForce(-radiusOffSet * _sensitivity - _rigidbody.velocity / _velocityLimiter, ForceMode.VelocityChange);
+                }
             }
             _rigidbody.velocity.Normalize();
         }
