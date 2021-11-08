@@ -1,4 +1,5 @@
 using UnityEngine;
+using ColorBump.Player;
 
 namespace ColorBump.ObjectsMovement
 {
@@ -38,7 +39,7 @@ namespace ColorBump.ObjectsMovement
 
         private void OnCollisionEnter(Collision target) 
         {
-            if(target.gameObject.tag == "white")
+            if(target.gameObject == PlayerController.Instance.gameObject)
             {
                 _stop = true;
                 GetComponent<Rigidbody>().freezeRotation = false;
