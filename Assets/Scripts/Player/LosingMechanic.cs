@@ -1,8 +1,6 @@
 using UnityEngine;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine.SceneManagement;
-using ColorBump.GameManager;
+using ColorBump.Manager;
 
 namespace ColorBump.Player
 {
@@ -27,8 +25,8 @@ namespace ColorBump.Player
                 if (!_player.CanMove && _gameOver) ReloadLevel();
                 else if (!_player.CanMove && !_levelUp.Finish) 
                 {
-                    GameManager.Instance.RemoveUI();
                     _player.CanMove = true;
+                    GameManager.Instance.RemoveUI();
                 }
             }
         }
