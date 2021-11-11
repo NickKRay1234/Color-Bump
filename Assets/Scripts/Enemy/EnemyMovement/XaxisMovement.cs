@@ -25,12 +25,14 @@ namespace ColorBump.ObjectsMovement
                 if(_right)
                 {
                     transform.position += Vector3.right * _speed * Time.deltaTime;
+                    transform.Rotate(0.0f, 2.5f, 0.0f, Space.World);
                     if(transform.position.x >= _maxX)
                     _right = false;
                 }
                 else
                 {
                     transform.position += Vector3.left * _speed * Time.deltaTime;
+                    transform.Rotate(0.0f, -2.5f, 0.0f, Space.World);
                     if(transform.position.x <= _minX)
                     _right = true;
                 }
