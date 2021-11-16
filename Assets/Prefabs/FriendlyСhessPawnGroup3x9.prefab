@@ -3288,10 +3288,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (76)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &731040972492128603 stripped
@@ -3367,10 +3375,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &457097676337268561 stripped
@@ -3446,10 +3462,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &1173513345289072192 stripped
@@ -3525,10 +3549,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (67)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &2212831636116946040 stripped
@@ -3604,10 +3636,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (68)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &1702079552146627661 stripped
@@ -3683,10 +3723,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (80)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &2052662808056649119 stripped
@@ -3762,10 +3810,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &1202177857440505086 stripped
@@ -3841,10 +3897,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (57)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &2016673748146658070 stripped
@@ -3920,10 +3984,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &1861534642028747802 stripped
@@ -3999,10 +4071,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &1828440486711315617 stripped
@@ -4078,10 +4158,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (60)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &2891926028516051832 stripped
@@ -4157,10 +4245,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (70)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &2482846305084324533 stripped
@@ -4236,10 +4332,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &3131726830844413677 stripped
@@ -4315,10 +4419,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &3425332642351567674 stripped
@@ -4394,10 +4506,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (84)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &2345017333020157678 stripped
@@ -4473,10 +4593,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &2358488726934571496 stripped
@@ -4552,10 +4680,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (83)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &4480790307873963295 stripped
@@ -4631,10 +4767,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (55)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &3813712896759818276 stripped
@@ -4710,10 +4854,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (66)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &3725236361586366903 stripped
@@ -4789,10 +4941,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (56)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &3560498088361599831 stripped
@@ -4868,10 +5028,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (73)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &4407202526562990382 stripped
@@ -4947,10 +5115,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &4308691281057484875 stripped
@@ -5026,10 +5202,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (75)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &3561082072419726797 stripped
@@ -5105,10 +5289,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (63)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &5527545656145579912 stripped
@@ -5184,10 +5376,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (69)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &4726637234822602947 stripped
@@ -5263,10 +5463,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (74)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &5349032565727211454 stripped
@@ -5342,10 +5550,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (65)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &5579955909532640975 stripped
@@ -5421,10 +5637,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (81)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &5362601805132179193 stripped
@@ -5500,10 +5724,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (71)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &6191922732990452404 stripped
@@ -5579,10 +5811,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (88)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &6093392099912225819 stripped
@@ -5658,10 +5898,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (72)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &6866976325348504914 stripped
@@ -5737,10 +5985,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (89)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &6102372247649248388 stripped
@@ -5816,10 +6072,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &7909023025090030404 stripped
@@ -5895,10 +6159,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (86)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &7301225923138799877 stripped
@@ -5974,10 +6246,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &7513791027134924524 stripped
@@ -6053,10 +6333,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (85)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &7712307485472267014 stripped
@@ -6132,10 +6420,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (77)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &7627247464819990173 stripped
@@ -6211,10 +6507,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &7195654143812986597 stripped
@@ -6290,10 +6594,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &7496355804505053038 stripped
@@ -6369,10 +6681,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (82)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &7515589116747792521 stripped
@@ -6448,10 +6768,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (64)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &8587648922164895026 stripped
@@ -6527,10 +6855,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (87)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &8564073911021281214 stripped
@@ -6606,10 +6942,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (78)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &8969922693069484836 stripped
@@ -6685,10 +7029,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!1 &8136783305205998292 stripped
@@ -6764,10 +7116,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2571118854743697038, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     - target: {fileID: 919132149155446097, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
       propertyPath: m_Name
       value: ChessFigures (79)
       objectReference: {fileID: 0}
+    - target: {fileID: 7202271454713460447, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7596957b9f124df49a4a421d3a0b2544, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb06a31dfdf92024188cd1018a2f193e, type: 3}
 --- !u!4 &8855181458633130830 stripped
