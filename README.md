@@ -6,5 +6,8 @@ The goal of the game is to pass the levels touching the figures only of their ow
 
 
 
-https://user-images.githubusercontent.com/80714127/142054052-7332692a-bfec-46fe-bfef-0046d283bdc3.mp4
+
+
+
+https://user-images.githubusercontent.com/80714127/142055563-524ecb2c-bbec-4fe5-b277-09b91c604f68.mp4
 
